@@ -15,7 +15,7 @@ import (
 
 	"github.com/joho/godotenv"
 	_ "github.com/mattn/go-sqlite3"
-	"github.com/maxpawgdbs/yandex-go/structs"
+	"github.com/KhalidAskhab/Final_Task/structs"
 )
 
 type MoveType struct {
