@@ -8,7 +8,7 @@ import (
 	"testing"
 
 	"github.com/gorilla/mux"
-	"github.com/maxpawgdbs/yandex-go/structs"
+	"github.com/KhalidAskhab/Final_Task/structs"
 )
 
 func TestCalculatorHandler_Post(t *testing.T) {
