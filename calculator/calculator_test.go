@@ -7,7 +7,7 @@ import (
 	"os"
 	"testing"
 
-	"github.com/maxpawgdbs/yandex-go/structs"
+	"github.com/KhalidAskhab/Final_Task/structs"
 )
 
 var ts *httptest.Server
